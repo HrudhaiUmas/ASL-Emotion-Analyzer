@@ -2,9 +2,12 @@
 
 Welcome to our ASL to Text with Emotional Analysis project! This project aims to bridge the communication gap between individuals using American Sign Language (ASL) and those who communicate through spoken or written language. By leveraging machine learning and natural language processing, we provide a platform for interpreting ASL gestures into text, coupled with emotional analysis to convey the sentiment behind the signs. Our goal is to foster a more inclusive society by making ASL more accessible and comprehensible to everyone, particularly benefiting individuals with Autism Spectrum Disorder (ASD) who may find it challenging to interpret emotional cues in sign language. This project was created by students at the University Of Washington Seattle: [Hrudhai Umas](https://www.linkedin.com/in/hrudhai-umas/), [Rohan Sabhaya](https://www.linkedin.com/in/rohansabhaya/) and [Kaden Kapadia](https://www.linkedin.com/in/kadenkapadia/).
 
-
 ## Motivation
 Communication disparities, particularly in sign language, can lead to nuanced differences in interpretation. Our project seeks to address these disparities by developing a model adept at discerning emotional cues embedded within ASL and articulating them in natural language. This initiative aims to empower those learning or mastering ASL, thereby promoting universal communication parity and nurturing a more synergistic and inclusive environment.
+
+## Demo Video
+To see our project in action, check out this demo video showcasing how the system works, including real-time ASL sign recognition and sentiment analysis. 
+[Click Here For A Demo Video Of How It Works](https://drive.google.com/file/d/1RiwllgoBs61RuCR96shx9Km0sbDQLUYR/view?usp=sharing)
 
 ## System Requirements
 * Python Version: 3.8 - 3.11 (Tested on Python 3.9.6) (IDE: PyCharm)
@@ -33,10 +36,6 @@ To use the system, follow these steps in order. Note that we made it so you only
 2. (OPTIONAL HAS ALREADY BEEN DONE) Execute create_dataset.py to process the images and create a dataset. (Need to do if you ran collect_imgs.py)
 3. (OPTIONAL HAS ALREADY BEEN DONE) Run NeuralNetworkML.py to train the machine learning model.
 4. Finally, execute RealTimePredictionAndNLP.py for real-time sign recognition and sentiment analysis.
-
-## Demo Video
-To see our project in action, check out this demo video showcasing how the system works, including real-time ASL sign recognition and sentiment analysis. 
-[Click Here For A Demo Video Of How It Works](https://drive.google.com/file/d/1RiwllgoBs61RuCR96shx9Km0sbDQLUYR/view?usp=sharing)
 
 ## Dependencies
 This project relies on several libraries for image processing, machine learning, and natural language processing. Make sure you have the following dependencies installed:
