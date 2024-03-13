@@ -10,7 +10,7 @@ To see our project in action, check out this demo video showcasing how the syste
 [Click Here For A Demo Video Of How It Works](https://drive.google.com/file/d/1RiwllgoBs61RuCR96shx9Km0sbDQLUYR/view?usp=sharing)
 
 ## Our ASL Alphabet Chart:
-<img width="651" alt="ASLChart" src="https://github.com/HrudhaiUmas/ASL-Emotion-Analyzer/ASLChart.png">
+<img width="651" alt="ASLChart" src="ASLChart.png">
 
 1. Please note that our project only contains space through the letter S for compute reasons. Our next steps will be to include S to Z and incorporate dynamic words so users do not have to spell out every word.
 
