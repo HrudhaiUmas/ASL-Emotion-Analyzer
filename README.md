@@ -8,7 +8,7 @@ Communication disparities, particularly in sign language, can lead to nuanced di
 
 ## System Requirements
 * Python Version: 3.8 - 3.11 (Tested on Python 3.9.6) (IDE: PyCharm)
-* Libraries: OpenCV, MediaPipe, PyTorch, scikit-learn, transformers
+* Libraries: OS, OpenCV, Pickle, MediaPipe, Numpy, PyTorch, scikit-learn, transformers
 * Hardware: A webcam for capturing sign language gestures
 
 ## Installation
