@@ -1,4 +1,4 @@
-<img width="656" alt="PNG image" src="https://github.com/HrudhaiUmas/ASL-Emotion-Analyzer/assets/66285882/c3d656cd-2710-40c6-8b51-24bad0a4cf64"># ASL-Emotion Analyzer
+# ASL-Emotion Analyzer
 
 Welcome to our ASL to Text with Emotional Analysis project! This project aims to bridge the communication gap between individuals using American Sign Language (ASL) and those who communicate through spoken or written language. By leveraging machine learning and natural language processing, we provide a platform for interpreting ASL alphabet gestures into text, coupled with emotional analysis to convey the sentiment behind the signs. Our goal is to foster a more inclusive society by making ASL more accessible and comprehensible to everyone, particularly benefiting individuals with Autism Spectrum Disorder (ASD) who may find it challenging to interpret emotional cues in sign language. This project was created by students at the University Of Washington Seattle: [Hrudhai Umas](https://www.linkedin.com/in/hrudhai-umas/), [Rohan Sabhaya](https://www.linkedin.com/in/rohansabhaya/) and [Kaden Kapadia](https://www.linkedin.com/in/kadenkapadia/).
 
@@ -8,8 +8,9 @@ Communication disparities, particularly in sign language, can lead to nuanced di
 ## Demo Video
 To see our project in action, check out this demo video showcasing how the system works, including real-time ASL sign recognition and sentiment analysis. 
 [Click Here For A Demo Video Of How It Works](https://drive.google.com/file/d/1RiwllgoBs61RuCR96shx9Km0sbDQLUYR/view?usp=sharing)
-<img width="651" alt="Screenshot 2024-03-13 at 2 36 42 AM" src="https://github.com/HrudhaiUmas/ASL-Emotion-Analyzer/assets/66285882/2360551b-23c8-4d76-b032-684339f74e37">
 
+## Our ASL Alphabet Chart:
+<img width="651" alt="Screenshot 2024-03-13 at 2 36 42 AM" src="https://github.com/HrudhaiUmas/ASL-Emotion-Analyzer/assets/66285882/2360551b-23c8-4d76-b032-684339f74e37">
 
 ## Check Out Our Report!
 [Click Here For Our Report](https://docs.google.com/document/d/1BgsVERG-x7K5VbO3B08yguP0WZT0Ub4T4a3sbxkKbFY/edit?usp=sharing)
