@@ -39,11 +39,16 @@ To see our project in action, check out this demo video showcasing how the syste
 [Click Here For A Demo Video Of How It Works](https://drive.google.com/file/d/1RiwllgoBs61RuCR96shx9Km0sbDQLUYR/view?usp=sharing)
 
 ## Dependencies
-1. OpenCV for image processing and capturing webcam footage
-2. MediaPipe for hand landmark detection
-3. PyTorch for neural network implementation and training
-4. scikit-learn for data preprocessing
-5. transformers for sentiment analysis
+This project relies on several libraries for image processing, machine learning, and natural language processing. Make sure you have the following dependencies installed:
+
+os: Standard library in Python, no need for separate installation.
+cv2 (OpenCV): For image processing and capturing webcam footage.
+pickle: Standard library in Python for serializing and deserializing Python object structures.
+mediapipe: For hand landmark detection.
+numpy: For numerical computations and handling arrays.
+torch (PyTorch): For implementing and training neural network models.
+sklearn (scikit-learn): For data preprocessing and splitting the dataset.
+transformers: For natural language processing, specifically for sentiment analysis.
 
 ## Acknowledgements
 Our project stands on the shoulders of giants, leveraging open-source libraries such as OpenCV, MediaPipe, PyTorch, scikit-learn, and transformers. We extend our gratitude to all the contributors of these projects.
