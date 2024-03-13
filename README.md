@@ -9,6 +9,9 @@ Communication disparities, particularly in sign language, can lead to nuanced di
 To see our project in action, check out this demo video showcasing how the system works, including real-time ASL sign recognition and sentiment analysis. 
 [Click Here For A Demo Video Of How It Works](https://drive.google.com/file/d/1RiwllgoBs61RuCR96shx9Km0sbDQLUYR/view?usp=sharing)
 
+## Check Out Our Report!
+[Click Here For Our Report](https://docs.google.com/document/d/1BgsVERG-x7K5VbO3B08yguP0WZT0Ub4T4a3sbxkKbFY/edit?usp=sharing)
+
 ## System Requirements
 * Python Version: 3.8 - 3.11 (Tested on Python 3.9.6) (IDE: PyCharm)
 * Libraries: OS, OpenCV, Pickle, MediaPipe, Numpy, PyTorch, scikit-learn, transformers
