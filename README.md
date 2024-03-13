@@ -11,7 +11,8 @@ To see our project in action, check out this demo video showcasing how the syste
 
 ## Our ASL Alphabet Chart:
 <img width="651" alt="Screenshot 2024-03-13 at 2 36 42 AM" src="https://github.com/HrudhaiUmas/ASL-Emotion-Analyzer/assets/66285882/2360551b-23c8-4d76-b032-684339f74e37">
-* Please note that our project only contains space through the letter S for compute reasons. Our next steps will be to include S to Z and incorporate dynamic words so users do not have to spell out every word.
+
+1. Please note that our project only contains space through the letter S for compute reasons. Our next steps will be to include S to Z and incorporate dynamic words so users do not have to spell out every word.
 
 ## Check Out Our Report!
 [Click Here For Our Report](https://docs.google.com/document/d/1BgsVERG-x7K5VbO3B08yguP0WZT0Ub4T4a3sbxkKbFY/edit?usp=sharing)
