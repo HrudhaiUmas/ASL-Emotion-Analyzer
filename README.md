@@ -12,7 +12,7 @@ Communication disparities, particularly in sign language, can lead to nuanced di
 * Hardware: A webcam for capturing sign language gestures
 
 ## Installation
-`pip install opencv-python mediapipe torch scikit-learn transformers`
+`pip install opencv-python mediapipe numpy torch scikit-learn transformers`
 
 
 ## Project Structure
@@ -41,14 +41,14 @@ To see our project in action, check out this demo video showcasing how the syste
 ## Dependencies
 This project relies on several libraries for image processing, machine learning, and natural language processing. Make sure you have the following dependencies installed:
 
-os: Standard library in Python, no need for separate installation.
-cv2 (OpenCV): For image processing and capturing webcam footage.
-pickle: Standard library in Python for serializing and deserializing Python object structures.
-mediapipe: For hand landmark detection.
-numpy: For numerical computations and handling arrays.
-torch (PyTorch): For implementing and training neural network models.
-sklearn (scikit-learn): For data preprocessing and splitting the dataset.
-transformers: For natural language processing, specifically for sentiment analysis.
+1. os: Standard library in Python, no need for separate installation.
+2. cv2 (OpenCV): For image processing and capturing webcam footage.
+3. pickle: Standard library in Python for serializing and deserializing Python object structures.
+4. mediapipe: For hand landmark detection.
+5. numpy: For numerical computations and handling arrays.
+6. torch (PyTorch): For implementing and training neural network models.
+7. sklearn (scikit-learn): For data preprocessing and splitting the dataset.
+8. transformers: For natural language processing, specifically for sentiment analysis.
 
 ## Acknowledgements
 Our project stands on the shoulders of giants, leveraging open-source libraries such as OpenCV, MediaPipe, PyTorch, scikit-learn, and transformers. We extend our gratitude to all the contributors of these projects.
