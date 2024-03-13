@@ -7,7 +7,7 @@ Welcome to our ASL to Text with Emotional Analysis project! This project aims to
 Communication disparities, particularly in sign language, can lead to nuanced differences in interpretation. Our project seeks to address these disparities by developing a model adept at discerning emotional cues embedded within ASL and articulating them in natural language. This initiative aims to empower those learning or mastering ASL, thereby promoting universal communication parity and nurturing a more synergistic and inclusive environment.
 
 ## System Requirements
-* Python Version: 3.8 - 3.11 (Tested on Python 3.9.6)
+* Python Version: 3.8 - 3.11 (Tested on Python 3.9.6) (IDE: PyCharm)
 * Libraries: OpenCV, MediaPipe, PyTorch, scikit-learn, transformers
 * Hardware: A webcam for capturing sign language gestures
 
