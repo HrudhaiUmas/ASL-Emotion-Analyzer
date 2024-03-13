@@ -35,7 +35,8 @@ To use the system, follow these steps in order. Note that we made it so you only
 4. Finally, execute RealTimePredictionAndNLP.py for real-time sign recognition and sentiment analysis.
 
 ## Demo Video
-To see our project in action, check out this demo video showcasing how the system works, including real-time ASL sign recognition and sentiment analysis. [Insert demo video link here]
+To see our project in action, check out this demo video showcasing how the system works, including real-time ASL sign recognition and sentiment analysis. 
+[Click Here For A Demo Video Of How It Works](https://drive.google.com/file/d/1RiwllgoBs61RuCR96shx9Km0sbDQLUYR/view?usp=sharing)
 
 ## Dependencies
 1. OpenCV for image processing and capturing webcam footage
