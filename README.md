@@ -58,7 +58,7 @@ This project relies on several libraries for image processing, machine learning,
 8. transformers: For natural language processing, specifically for sentiment analysis.
 
 ## Acknowledgements
-Our project stands on the shoulders of giants, leveraging open-source libraries such as OpenCV, MediaPipe, PyTorch, scikit-learn, and transformers. We extend our gratitude to all the contributors of these projects.
+Our project stands on the shoulders of giants, leveraging open-source libraries such as OpenCV, MediaPipe, PyTorch, scikit-learn, and transformers. We extend our gratitude to all the contributors of these projects. Please also let us know if there is anything we can improve on!
 
 ## Final Words
 By embracing the motto "The World is One Family," we are committed to removing communication barriers and fostering inclusivity across all boundaries. Join us in our journey towards creating a more accessible and understanding world.
